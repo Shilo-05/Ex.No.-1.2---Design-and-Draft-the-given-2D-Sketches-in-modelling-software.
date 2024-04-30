@@ -1,5 +1,7 @@
-# Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
+# Ex.No.-1.2  Design and Draft the given 2D Sketches in modelling software.
 
+#### Name: Oswald Shilo
+#### Reg No: 212223040139
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +38,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+
+ ![image](https://github.com/Sellakumar1987/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/139841664/27c84ed6-13b1-4765-b1f6-6f23ada51609)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
